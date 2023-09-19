@@ -30,6 +30,11 @@ Estou sempre aberto a oportunidades emocionantes e colaborações interessantes.
 
 https://www.linkedin.com/in/bruna-caroline-silva/ | brunacsilva11@outlook.com
 
+### Projetos Destacados
 
-Obrigado por visitar o meu perfil do GitHub. Estou ansioso para conectar com você e explorar novas oportunidades juntos!
+Aqui está um dos projetos em que trabalhei recentemente:
+
+- [ChatGPT Clone](https://github.com/brunacsilva99/ChatGPT-Clone): Este é um projeto que implementa um clone simplificado do ChatGPT usando a API da OpenAI.
+
+Obrigada por visitar o meu perfil do GitHub. Estou ansiosa para conectar com você e explorar novas oportunidades juntos!
 
